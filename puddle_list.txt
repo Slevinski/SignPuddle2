@@ -1,0 +1,141 @@
+hks-HK-dictionary-public	sgn12	Hong Kong Dictionary
+hks-HK-literature-public	sgn13	Hong Kong Literature
+sls-SG-dictionary-public	sgn11	Dictionary Singapore
+sls-SG-literature-public	sgn14	Literature Singapore
+eth-ET-literature-public	sgn100	Literature Ethiopia
+mdl-MT-dictionary-signs	sgn103	Malta LSM Private Puddle
+tse-TN-dictionary-public	sgn104	Dictionnaire Tunisien
+ase-US-literature-dac	sgn105	DAC Private Puddle
+afg-AF-dictionary-public	sgn106	Dictionary Afghanistan
+lls-LT-dictionary-public	sgn107	Dictionary Lithuania
+lsl-LV-dictionary-public	sgn108	Dictionary Latvia
+eso-EE-dictionary-public	sgn109	Dictionary Estonia
+isr-IL-dictionary-public	sgn110	Dictionary Israel
+ase-US-literature-translate	sgn111	Project 1 Translate Wiki
+gsm-GT-dictionary-public	sgn112	Dictionary Guatemala
+ase-HT-dictionary-public	sgn113	Dictionary Haiti
+bzs-BR-literature-public	sgn114	Literatura Brasil
+psr-PT-literature-public	sgn115	Literatura Portugal
+bzs-BR-literature-encyclopedia	sgn116	Enciclopédia Brasil
+psr-PT-literature-encyclopedia	sgn117	Enciclopédia Portugal
+dsl-DK-literature-public	sgn118	Litteratur Danmark
+ncs-NI-literature-public	sgn119	Literatura Nicaragua
+mfs-MX-literature-public	sgn120	Literatura Mexico
+hsh-HU-dictionary-public	sgn122	Dictionary Hungary
+hsh-HU-literature-public	sgn123	Literature Hungary
+fsl-FR-literature-public	sgn124	Literature France
+bfi-GB-literature-public	sgn125	Literature Great Britain
+tse-TN-literature-public	sgn126	Littérature Tunisien
+mdl-MT-literature-public	sgn127	Literature Malta
+ase-MW-dictionary-public	sgn128	Dictionary Malawi
+pys-PY-dictionary-public	sgn129	Diccionario Paraguay
+ukl-UA-dictionary-public	sgn130	Dictionary Ukraine
+icl-IS-dictionary-public	sgn131	Ordabók IS
+rms-RO-dictionary-public	sgn132	Dictionary Romania
+nsp-NP-dictionary-public	sgn133	Dictionary Nepal
+bqn-BG-dictionary-public	sgn134	Dictionary Bulgaria
+csg-CL-dictionary-public	sgn135	Diccionario Chile
+ecs-EC-dictionary-public	sgn136	Diccionario Ecuador
+esn-SV-dictionary-public	sgn137	Diccionario El Salvador
+rms-RO-literature-public	sgn138	Literature Romania
+rms-RO-literature-encyclopedia	sgn139	Encyclopedia Romania
+fcs-CA-literature-encyclopedia	sgn140	Encyclopédie Quebec
+rsl-RU-literature-public	sgn141	Literature Russia
+rsl-RU-literature-encyclopedia	sgn142	Encyclopedia Russia
+ugy-UY-dictionary-public	sgn143	Diccionario Uruguay
+ugy-UY-literature-public	sgn144	Literatura Uruguay
+aed-AR-literature-public	sgn145	Literatura Argentina
+aed-AR-literature-encyclopedia	sgn146	Enciclopedia Argentina
+mdl-MT-literature-archive	sgn147	Literature Malta Archive
+ysl-SI-literature-public	sgn148	Besedila Slovenia
+ysl-SI-literature-encyclopedia	sgn149	Enciklopedija Slovenia
+ase-US-literature-bible	sgn151	ASL Bible Books NLT
+ase-US-literature-shores	sgn152	ASL Bible Books Shores Deaf Church
+hds-HN-dictionary-public	sgn16	Diccionario Honduras
+ase-US-literature-harbor	sgn17	Deaf Harbor
+eth-ET-dictionary-public	sgn18	Dictionary Ethiopia
+pso-PL-dictionary-public	sgn19	Słownik PL
+mis-MM-dictionary-public	sgn2	Myanmar Dictionary
+ssr-CH-literature-public	sgn20	Littérature CH-fr
+ase-US-literature-encyclopedia	sgn21	Encyclopedia US
+ssr-CH-literature-encyclopedia	sgn22	Encyclopédie CH-fr
+nsl-NO-literature-public	sgn23	Litteratur NO
+nsl-NO-literature-encyclopedia	sgn24	Leksikon NO
+ase-US-dictionary-signtyp	sgn25	LLCN & SignTyp
+gsg-DE-literature-public	sgn26	Literatur DE
+gsg-DE-literature-encyclopedia	sgn27	Enzyklopädie DE
+ase-US-dictionary-bible	sgn28	ASL Bible Dictionary
+asq-AT-dictionary-public	sgn29	Wörterbuch AT
+dsl-DK-dictionary-public	sgn30	Ordbog Danmark
+mdl-MT-dictionary-public	sgn31	Dictionary Malta
+nsi-NG-dictionary-public	sgn32	Dictionary Nigeria
+psr-PT-dictionary-public	sgn33	Dicionário Portugal
+tsq-TH-dictionary-public	sgn34	Dictionary Thailand
+ils-WO-dictionary-public	sgn35	Dictionary International
+cse-CZ-literature-public	sgn36	Literatura CZ
+cse-CZ-literature-encyclopedia	sgn37	Encyklopedie CZ
+pso-PL-literature-public	sgn38	Literatura PL
+pso-PL-literature-encyclopedia	sgn39	Encyklopedie PL
+ase-US-dictionary-public	sgn4	Dictionary US
+sdl-SA-dictionary-public	sgn40	Dictionary Saudi Arabia
+aed-AR-dictionary-public	sgn41	Diccionario Argentina
+asf-AU-dictionary-public	sgn42	Dictionary Australia
+sfb-BE-dictionary-public	sgn43	Dictionnaire BE-fr
+vgt-BE-dictionary-public	sgn44	Woordenboek Flanders
+bvl-BO-dictionary-public	sgn45	Diccionario Bolivia
+bzs-BR-dictionary-public	sgn46	Dicionário Brasil
+fcs-CA-dictionary-public	sgn47	Dictionnaire Quebec
+sgg-CH-dictionary-public	sgn48	Wörterbuch CH-de
+ssr-CH-dictionary-public	sgn49	Dictionnaire CH-fr
+ase-US-literature-public	sgn5	Literature US
+slf-CH-dictionary-public	sgn50	Dizionario CH-it
+csn-CO-dictionary-public	sgn51	Diccionario Colombia
+cse-CZ-dictionary-public	sgn52	Slovník CZ
+gsg-DE-dictionary-public	sgn53	Wörterbuch DE
+ils-WO-dictionary-signuno	sgn54	Vortaro
+ssp-ES-dictionary-public	sgn55	Diccionario España
+csc-ES-dictionary-public	sgn56	Diccionario Catalán
+fse-FI-dictionary-public	sgn57	Dictionary Finland
+fsl-FR-dictionary-public	sgn58	Dictionnaire FR
+bfi-GB-dictionary-public	sgn59	Dictionary Great Britain
+bfi-IE-dictionary-public	sgn60	Dictionary Northern Ireland
+gss-GR-dictionary-public	sgn61	Dictionary Greece
+isg-IE-dictionary-public	sgn62	Dictionary Ireland
+ise-IT-dictionary-public	sgn63	Dizionario IT
+jsl-JP-dictionary-public	sgn64	Dictionary Japan
+mfs-MX-dictionary-public	sgn65	Diccionario Mexico
+xml-MY-dictionary-public	sgn66	Dictionary Malaysia
+ncs-NI-dictionary-public	sgn67	Diccionario Nicaragua
+dse-NL-dictionary-public	sgn68	Woordenboek NL
+nsl-NO-dictionary-public	sgn69	Ordbok NO
+nzs-NZ-dictionary-public	sgn70	Dictionary New Zealand
+prl-PE-dictionary-public	sgn71	Diccionario Peru
+psp-PH-dictionary-public	sgn72	Dictionary Philippines
+swl-SE-dictionary-public	sgn73	Ordbok Sverige
+ysl-SI-dictionary-public	sgn74	Slovar Slovenia
+tss-TW-dictionary-public	sgn75	Dictionary Taiwan
+vsl-VE-dictionary-public	sgn76	Diccionario Venezuela
+sfs-ZA-dictionary-public	sgn77	Dictionary South Africa
+kvk-KR-dictionary-public	sgn78	Dictionary Korea
+xki-KE-dictionary-public	sgn79	Dictionary Kenya
+bzs-BR-dictionary-sort	sgn80	Project 2 Dictionary Sorting
+fcs-CA-literature-public	sgn81	Littérature Quebec
+sqk-AL-dictionary-public	sgn82	Dictionary Albania
+csl-CN-dictionary-public	sgn83	Dictionary China
+esl-EG-dictionary-public	sgn84	Dictionary Egypt
+ins-IN-dictionary-public	sgn85	Dictionary India
+jos-JO-dictionary-public	sgn86	Dictionary Jordan
+pks-PK-dictionary-public	sgn87	Dictionary Pakistan
+rsl-RU-dictionary-public	sgn88	Dictionary Russia
+svk-SK-dictionary-public	sgn89	Dictionary Slovakia
+tsm-TR-dictionary-public	sgn90	Dictionary Turkey
+sdl-SA-literature-public	sgn91	Literature Saudi Arabia
+jos-JO-literature-public	sgn92	Literature Jordan
+ssp-ES-literature-public	sgn93	Literatura España
+csc-ES-literature-public	sgn94	Literatura Catalán
+sfb-BE-literature-public	sgn95	Littérature BE-fr
+sgg-CH-literature-public	sgn96	Literatur CH-de
+vgt-BE-literature-public	sgn98	Literatuur Flanders
+jsl-JP-literature-public	sgn99	Literature Japan
+hos-VN-dictionary-public	sgn153	Dictionary Vietnam
+

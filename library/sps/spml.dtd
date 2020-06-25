@@ -1,0 +1,15 @@
+<!ATTLIST spml version CDATA #FIXED "1.0">
+<!ELEMENT spml (sign*)>
+<!ELEMENT sign (symbol+)>
+<!ATTLIST sign lane (-1|0|1) "0">
+<!ELEMENT symbol (#CDATA)>
+<!ATTLIST symbol x CDATA #REQUIRED>
+<!ATTLIST symbol y CDATA #REQUIRED>
+<!ELEMENT spml (image*)>
+<!ELEMENT image (#CDATA)>
+<!ELEMENT spml (ml*)>
+<!ELEMENT ml (#CDATA)>
+<!ELEMENT spml (cbr)>
+<!ELEMENT cbr EMPTY>
+<!ELEMENT spml (pbr)>
+<!ELEMENT pbr EMPTY>
