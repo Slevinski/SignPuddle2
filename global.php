@@ -7,16 +7,25 @@ include('library/xml/xmlFunc.php');
 //setup email accounts and roots
 $email = $_SERVER['SERVER_ADMIN'];
 $emailRoot = strrchr($email,"@"); 
+
+//setup secure
+$isSecure = false;
+$url_prefix = "http://";
+if (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] == 'on') {
+  $isSecure = true;
+  $url_prefix = "https://";
+}
+
 //setup signpuddle location
 $puddle="";
 $www = "data";
 $icon = "library/icons/";
 $data = getcwd() . "/" . $www;
 $path = substr($_SERVER['SCRIPT_NAME'],0,strrpos($_SERVER['SCRIPT_NAME'],"/")+1);
-$host = "http://" . $_SERVER['HTTP_HOST'] . $path;
+$host = $url_prefix . $_SERVER['HTTP_HOST'] . $path;
 
 if(0){
-  $swis_url = "http://swis.wmflabs.org/";
+  $swis_url = $url_prefix . "swis.wmflabs.org/";
   $swis_host = "";
 } else {
   $swis_url = "";
@@ -25,7 +34,7 @@ if(0){
 $swis_glyph = $swis_url . "glyph.php";
 $swis_glyphogram = $swis_url . "glyphogram.php";
 
-$sponline="http://www.signbank.org/signpuddle2.0/";
+$sponline= $url_prefix . "www.signbank.org/signpuddle2.0/";
 if (!isPP())  $sponline="";
 function isPP(){
   return !file_exists('admin.php');
